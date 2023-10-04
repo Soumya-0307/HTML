@@ -1,0 +1,47 @@
+.outer_white{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+
+}
+.emoji{
+    width: 400px;
+    height: 400px;
+    background-color: rgb(234, 177, 7);
+    border-radius: 50%;
+    
+
+}
+.mouth{
+    width: 210px;
+    height: 40px;
+    background-color: brown;
+    border-radius: 0 0 50px 50px;
+    position: absolute;
+    top: 290px;
+    left:100px;
+
+}
+.eye1{
+    width: 70px;
+    height: 70px;
+    background-color:black;
+    border-radius: 50px;
+    position: absolute;
+    top:90px; 
+    left:100px;
+
+
+}
+.eye2{
+    width: 70px;
+    height: 70px;
+    background-color:black;
+    border-radius: 50px;
+    position: absolute;
+    top:90px; 
+    left:250px;
+
+
+}
+
